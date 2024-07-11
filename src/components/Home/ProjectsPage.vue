@@ -16,8 +16,8 @@
               <h2 class="text-2xl text-white font-semibold">{{ project.title }}</h2>
               <p class="text-white">{{ project.description }}</p>
             </div>
-            <div class="mb-4">
-              <img src="../../assets/image/mycv.PNG" alt="Project Image" class="rounded-lg" />
+            <div class="mb-4 h-52">
+              <img src="../../assets/image/mycv.jpg" alt="Project Image" class="rounded-lg h-max" />
             </div>
           </div>
         </a>
@@ -33,7 +33,7 @@
     title: 'My-CV',
     description: 'On-going.',
     // imageUrl: '../../assets/image/mycv.PNG',
-    codeUrl: 'https://github.com/lloydmuncal/myCV',
+    codeUrl: 'https://lloydmuncal.github.io/myCV/#/',
   });
   </script>
   
